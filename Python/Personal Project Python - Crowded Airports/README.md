@@ -19,7 +19,7 @@ The question answered were: <br>
 
  ![most_crowded](images/most_crowded_by_year.png "Most Crowded Airport by Year") 
 
-                      <b>Figure 1. Most Crowded Airport</b>                      
+  <b>Figure 1. Most Crowded Airport</b>                      
 
 </div>
 
@@ -34,9 +34,9 @@ Based on Figure 1., USA's Hartsfield-Jackson Atlanta International Airport was t
 <br>
 <div align="center">
 
-| ![least_crowded](images/least_crowded_by_year.png "Least Crowded Airport by Year") |
-| :--------------------------------------------------------------------------------: |
-|                       <b>Figure 2. Least Crowded Airport</b>                       |
+ ![least_crowded](images/least_crowded_by_year.png "Least Crowded Airport by Year") 
+ 
+ <b>Figure 2. Least Crowded Airport</b>                       
 
 </div>
 <p style="text-align: justify">
@@ -49,9 +49,9 @@ Based on the Figure 2., the least crowded airport in 2016 was Qatar's Hamad Inte
 <br>
 <div align="center">
 
-| ![usa_passenger](images/usa_2020_passenger_count.png "Least Crowded Airport by Year") |
-| :-----------------------------------------------------------------------------------: |
-|                 <b>Figure 3. Number of Passengers in USA in 2020</b>                  |
+ ![usa_passenger](images/usa_2020_passenger_count.png "Least Crowded Airport by Year") 
+
+ <b>Figure 3. Number of Passengers in USA in 2020</b>                  
 
 </div>
 
@@ -66,9 +66,9 @@ Since the dataframe is really long for this particular question, I decided to pi
 
 <div align="center">
 
-| ![pass_country](images/no_of_passengers_per_country.png "No. of Passengers in Each Country") |
-| :------------------------------------------------------------------------------------------: |
-|                      <b>Figure 4. No. of Passengers in Each Country</b>                      |
+ ![pass_country](images/no_of_passengers_per_country.png "No. of Passengers in Each Country") 
+
+ <b>Figure 4. No. of Passengers in Each Country</b>                      
 
 </div>
 
@@ -79,9 +79,9 @@ Figure 4. above shows the total number of passengers in every country using the 
 
 <div align="center">
 
-| ![no_airport](images/number_of_unique_airports.png "No. of Passengers in Each Country") |
-| :-------------------------------------------------------------------------------------: |
-|                    <b>Figure 5. No. of Airports in Each Country</b>                     |
+ ![no_airport](images/number_of_unique_airports.png "No. of Passengers in Each Country") 
+
+ <b>Figure 5. No. of Airports in Each Country</b>                     
 
 </div>
 
@@ -92,9 +92,9 @@ Figure 5. proves the thought that I had. There, it can be observed that both USA
 
 <div align="center">
 
-| ![pass_perc_2016-2020](images/passenger_percentage_2016-2020.png "Passenger Percentage for Airports in 2016-2020") |
-| :----------------------------------------------------------------------------------------------------------------: |
-|                          <b>Figure 6. Passenger Percentage for Airports in 2016-2020</b>                           |
+ ![pass_perc_2016-2020](images/passenger_percentage_2016-2020.png "Passenger Percentage for Airports in 2016-2020") 
+
+ <b>Figure 6. Passenger Percentage for Airports in 2016-2020</b>                           
 
 </div>
 
@@ -105,9 +105,9 @@ Figure 6. shows the percentage of passengers each country contributed from the y
 
 <div align="center">
 
-| ![pass_perc_countries_2016-2020](images/passenger_percentage_countries_2016-2020.png "Passenger Percentage by Countries in 2016-2020") |
-| :------------------------------------------------------------------------------------------------------------------------------------: |
-|                                    <b>Figure 7. Passenger Percentage by Countries in 2016-2020</b>                                     |
+ ![pass_perc_countries_2016-2020](images/passenger_percentage_countries_2016-2020.png "Passenger Percentage by Countries in 2016-2020") 
+                                    
+ <b>Figure 7. Passenger Percentage by Countries in 2016-2020</b>                   
 
 </div>
 
@@ -120,9 +120,9 @@ Recalling that a pandemic broke out in 2020, a lot of countries implemented a st
 
 <div align="center">
 
-| ![pass_perc_countries_2020](images/passenger_percentage_countries_2020.png "Passenger Percentage by Countries in 2020") |
-| :---------------------------------------------------------------------------------------------------------------------: |
-|                               <b>Figure 8. Passenger Percentage by Countries in 2020</b>                                |
+ ![pass_perc_countries_2020](images/passenger_percentage_countries_2020.png "Passenger Percentage by Countries in 2020") 
+
+ <b>Figure 8. Passenger Percentage by Countries in 2020</b>                                
 
 </div>
 
@@ -135,9 +135,9 @@ After discovering that in terms of total passengers, USA and China were the coun
 
 <div align="center">
 
-| ![pass_percentile](images/percentiles_by_country.png "Passenger Percentiles and IQR by Countries") |
-| :------------------------------------------------------------------------------------------------: |
-|                    <b>Figure 9. Passenger Percentiles and IQR by Countries</b>                     |
+ ![pass_percentile](images/percentiles_by_country.png "Passenger Percentiles and IQR by Countries") 
+
+ <b>Figure 9. Passenger Percentiles and IQR by Countries</b>                     
 
 </div>
 
