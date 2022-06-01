@@ -17,9 +17,9 @@ The question answered were: <br>
 <br>
 <div align="center">
 
-| ![most_crowded](images/most_crowded_by_year.png "Most Crowded Airport by Year") |
-| :-----------------------------------------------------------------------------: |
-|                      <b>Figure 1. Most Crowded Airport</b>                      |
+ ![most_crowded](images/most_crowded_by_year.png "Most Crowded Airport by Year") 
+
+                      <b>Figure 1. Most Crowded Airport</b>                      
 
 </div>
 
